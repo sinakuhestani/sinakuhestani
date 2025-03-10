@@ -8,7 +8,7 @@
 
 ## Experience
 
-* **Senior Web Engineer**
+* **Senior Back-End Developer**
 
     `KimiaDP LLC` `Mashhad, Iran` `Full-Time` `2021 - 2023` `Hybrid`
 
@@ -18,7 +18,7 @@
 
     *Clients:* `Rokhdad Press News Agency` `Ahupa Design`
 
-* **Web Engineer**
+* **Senior Back-End Developer**
 
     `RayaPars Corp` `Mashhad, Iran` `Part-Time` `2021 - 2022` `Remote`
 
@@ -28,7 +28,7 @@
 
     *Clients:* `Yadman Corporation` `TopMart Store` `MSG Holding` `Pasargad Insurance` `Attarian Service Corp`
 
-* **Senior Back End Developer**
+* **Senior Back-End Developer**
 
     `GreenWeb` `Mashhad, Iran` `Full-Time` `2021 - 2021` `Hybrid`
 
@@ -38,17 +38,17 @@
 
     *Clients:* `IranServer` `Shadimart`
 
-* **Full-Stack Web Developer**
+* **Back-End Web Developer**
 
     `Rayapars Corp` `Mashhad, Iran` `Full-Time` `2020 - 2021` `On-site`
 
     Leading a team of three developers
 
-    *related skills and technologies:*  `Leadership` `OOP` `Slim` `MariaDB`
+    *related skills and technologies:*  `OOP` `Slim` `MariaDB`
 
     *Clients:* `IranCarspa` `Alamdar Group` `Kolbeh Group` `White Stone Store`
 
-* **Full Stack Web Developer**
+* **Full-Stack Web Developer**
 
     `PersianHotel` `Mashhad, Iran` `Full-Time` `2019 - 2020` `On-site`
 
@@ -58,7 +58,7 @@
 
     *Projects:* `IstanbulYar` `KishLandYar` `PanelYar` `PersianHotel`
 
-* **Full-stack Developer**
+* **Full-Stack Developer**
 
     `Freelance` `Mashhad, Iran` `Part-time` `2016 - 2019` `Remote`
 
