@@ -44,20 +44,10 @@ Here are some of the tools and technologies I work with:
 
 
 ## Gists
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-<table>
-    <thead>
-        <tr>
-            <th>Row</th>
-            <th>Name</th>
-        </tr>
-    </thead>
-    <tbody></tbody>
-</table>
+
+| Row | Name |
+| --- | ---- |
+
 
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=3048a98deccaab669fd9f3442ad5acef)](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)
