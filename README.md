@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg)
+![Tux, the Linux mascot](banner.png)
 # Hi, I'm Sina Kuhestani 👋
 
 🖥️ Senior PHP Developer | ♟️ Chess Player | 👨‍🍼 Happy Father
