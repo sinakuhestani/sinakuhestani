@@ -39,21 +39,32 @@ Here are some of the tools and technologies I work with:
 
 
 ## Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PHPallas&repo=Framework)](https://github.com/phpallas/framework)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PHPallas&repo=Framework)](https://github.com/phpallas/framework)
 
 
-## Gists
+|Row|Name|Vendor|Description|
+|:----|:----|:----|:----|
+|1|[Router](https://github.com/PHPallas/Router/)|[PHPallas](https://github.com/PHPallas)|Routing System written in PHP|
+
+
+
+
+## Sample Codes
 
 |Row|Name|Description|
-|-----|-----|-----|
+|:----|:----|:----|
 |1|[WordPress .htaccess](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)|Default `.htaccess` file|
 
 
 
 
-
 ## Articles
+
+|Row  |Course|Chapter|Lesson|Action|
+|:----|:-----|:------|:-----|:-----|
+|1    |Design Patterns in PHP|Creational Patterns|Singleton|[read](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)|
+
+
+
 
 * Design Patterns
     * [Singleton](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)
