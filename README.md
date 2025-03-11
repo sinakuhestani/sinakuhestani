@@ -32,41 +32,20 @@ Here are some of the tools and technologies I work with:
 * Email: 
 [Resume](https://github.com/sinakuhestani/sinakuhestani/blob/main/RESUME.md)
 
-
-## Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinakuhestani&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 ## Repositories
-
 
 |Row|Name|Vendor|Description|
 |:----|:----|:----|:----|
 |1|[Router](https://github.com/PHPallas/Router/)|[PHPallas](https://github.com/PHPallas)|Routing System written in PHP|
 
-
-
-
-## Sample Codes
+## Codes
 
 |Row|Name|Description|
 |:----|:----|:----|
 |1|[WordPress .htaccess](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)|Default `.htaccess` file|
-
-
-
 
 ## Articles
 
 |Row  |Course|Chapter|Lesson|Action|
 |:----|:-----|:------|:-----|:-----|
 |1    |Design Patterns in PHP|Creational Patterns|Singleton|[read](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)|
-
-
-
-
-* Design Patterns
-    * [Singleton](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)
-
-
