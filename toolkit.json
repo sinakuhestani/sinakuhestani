@@ -1,3 +1,6 @@
 {
-    
+    "vars": "/src/vars/",
+    "markdown": {
+        "/src/pages/main.php": "/README.md"
+    }
 }

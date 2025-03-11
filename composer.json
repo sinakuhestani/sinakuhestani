@@ -4,8 +4,7 @@
     "license": "CC-BY-NC-ND-4.0",
     "autoload": {
         "psr-4": {
-            "Project\\": "src/",
-            "PHPallas\\Toolkit\\": "Toolkit/src/"
+            "Project\\": "src/"
         }
     },
     "authors": [
