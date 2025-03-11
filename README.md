@@ -48,6 +48,6 @@ Here are some of the tools and technologies I work with:
 
 ## Articles
 
-|Row  |Course|Chapter|Lesson|Action|
+|Row  |Serie|Chapter|Lesson|Action|
 |:----|:-----|:------|:-----|:-----|
 |1    |Design Patterns in PHP|Creational Patterns|Singleton|[read](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)|
