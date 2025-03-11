@@ -44,7 +44,11 @@ Here are some of the tools and technologies I work with:
 
 
 ## Gists
-
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 <table>
     <thead>
         <tr>
