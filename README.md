@@ -1,11 +1,11 @@
 ![Tux, the Linux mascot](https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg)
 # Hi, I'm Sina Kuhestani 👋
----
+
 🖥️ Senior PHP Developer | ♟️ Chess Player | 👨‍🍼 Happy Father
 
 
 ## About Me
----
+
 I'm a passionate web developer with 5+ years of experience. My mission is to craft clean, efficient, and delightful solutions to real-world problems. I spend most of my days immersed in code, turning ideas into reality.
 
 ## Skills
