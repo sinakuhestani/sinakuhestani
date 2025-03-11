@@ -34,17 +34,17 @@ Here are some of the tools and technologies I work with:
 * Email: [sinakuhestani@gmail.com](mailto:sinakuhestani@gmail.com)
 
 
-## Repositories
+## Packages
 
-|Row|Name|Vendor|Description|
-|:----|:----|:----|:----|
-|1|[Router](https://github.com/PHPallas/Router/)|[PHPallas](https://github.com/PHPallas)|Routing System written in PHP|
+|Row|Name|Vendor|Description|Version|
+|:----|:----|:----|:----|:----:|
+|1|[Router](https://github.com/PHPallas/Router/)|[PHPallas](https://github.com/PHPallas)|Routing System written in PHP|?|
 
-## Codes
+## Snippets
 
-|Row|Name|Description|
-|:----|:----|:----|
-|1|[WordPress .htaccess](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)|Default `.htaccess` file|
+|Row|Name|Date|Description|
+|:----|:----|:----|:-----|
+|1|[WordPress .htaccess](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)||Default `.htaccess` file|
 
 ## Articles
 
