@@ -45,7 +45,7 @@ Here are some of the tools and technologies I work with:
 
 ## Gists
 
-| Row | Name |
+| Row |                           Name                      |
 | --- | ---- |
 
 
