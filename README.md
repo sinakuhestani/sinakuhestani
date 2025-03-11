@@ -48,6 +48,6 @@ Here are some of the tools and technologies I work with:
 
 ## Articles
 
-|Row  |Serie|Chapter|Episode|Action|
-|:----|:-----|:------|:-----|:-----|
-|1    |Design Patterns in PHP|Creational Patterns|Singleton|[read](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)|
+|Row  |Serie|Chapter|Episode|Date|Action|
+|:----|:-----|:------|:-----|:-----:|:-----|
+|1    |Design Patterns in PHP|Creational Patterns|Singleton|2025/03/12|[read](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)|
