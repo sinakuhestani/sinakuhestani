@@ -25,35 +25,30 @@ Here are some of the tools and technologies I work with:
 * ⚙️ And more...
 
 ## Let's Connect
----
+
 * Linkedin: 
 * Github: 
 * YouTube: 
 * Email: 
 [Resume](https://github.com/sinakuhestani/sinakuhestani/blob/main/RESUME.md)
 
----
 
-#### Statistics
+## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinakuhestani&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-
-#### Repositories
+## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PHPallas&repo=Framework)](https://github.com/phpallas/framework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PHPallas&repo=Framework)](https://github.com/phpallas/framework)
 
----
 
-#### Gists
+## Gists
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=3048a98deccaab669fd9f3442ad5acef)](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)
 
 
----
-
-#### Articles
+## Articles
 
 * Design Patterns
     * [Singleton](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)
