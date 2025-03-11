@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](banner.png)
+[![Tux, the Linux mascot](banner.png)](https://linkedin.com/in/sina-kuhestani/)
 # Hi, I'm Sina Kuhestani 👋
 
 🖥️ Senior PHP Developer | ♟️ Chess Player | 👨‍🍼 Happy Father
