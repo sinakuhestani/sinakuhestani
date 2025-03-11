@@ -45,12 +45,12 @@ Here are some of the tools and technologies I work with:
 
 ## Gists
 
-| Row |                           Name                      |
-| --- | ---- |
+|Row|Name|Description|
+|-----|-----|-----|
+|1|[WordPress .htaccess](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)|Default `.htaccess` file|
 
 
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=3048a98deccaab669fd9f3442ad5acef)](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)
 
 
 ## Articles
