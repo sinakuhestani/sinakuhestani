@@ -36,9 +36,9 @@ Here are some of the tools and technologies I work with:
 
 ## Packages
 
-|Row|Name|Vendor|Description|Version|
-|:----|:----|:----|:----|:----:|
-|1|[Router](https://github.com/PHPallas/Router/)|[PHPallas](https://github.com/PHPallas)|Routing System written in PHP|?|
+|Row|Name|Vendor|Description|Version|Get|
+|:----|:----|:----|:----|:----:|:---:|
+|1|[Router](https://github.com/PHPallas/Router/)|[PHPallas](https://github.com/PHPallas)|Routing System written in PHP|?|[packagist](), [npmjs]()
 
 ## Snippets
 
