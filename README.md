@@ -174,7 +174,7 @@
     
 ## Languages
 
-* `English`: Professional working proficiency
-* `Persian`: Native or bilingual proficiency
-* `Turkish`: Native or bilingual proficiency
-* `Portuguese`: Elementary proficiency
+* `English`: B1
+* `Persian`: C2
+* `Turkish`: C1
+* `Portuguese`: A1
