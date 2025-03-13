@@ -10,7 +10,7 @@ Singleton is a creational design pattern for classes that MUST have a single glo
 4. Add the prefix `final` into the class declaration. So that, the Singleton class would not be a parent for ant other class.
 5. Make the `__clone()` of the class private. So, other programs would not be able to create a clone.
 6. Make the `__wakeup()` of the class private. So, other programs would not be able to create clones by serializing-deserializing.
-7. Refactor your code and replace all direct calls to the singleton’s constructor with calls to `getInstance()` method.
+7. Refactor your code and replace all direct calls to the singleton’s ***constructor*** with calls to `getInstance()` method.
 
 ## Code
 
