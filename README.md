@@ -33,22 +33,4 @@ Here are some of the tools and technologies I work with:
 * YouTube: [@sinakuhestani](https://youtube.com/sinakuhestani)
 * Email: [sinakuhestani@gmail.com](mailto:sinakuhestani@gmail.com)
 
-
-## Packages
-
-|Row|Name|Vendor|Description|Version|Get|
-|:----|:----|:----|:----|:----:|:---:|
-|1|[Router](https://github.com/PHPallas/Router/)|[PHPallas](https://github.com/PHPallas)|Routing System written in PHP|?|[packagist](), [npmjs]()|
-|2|[Utility Library](https://github.com/PHPallas/Utilities)|[PHPallas](https://github.com/PHPallas)|A utility library for PHP projects|1.0.3|[packagist](https://packagist.org/packages/phpallas/utilities)|
-
-## Snippets
-
-|Row|Name|Date|Description|
-|:----|:----|:----|:-----|
-|1|[WordPress .htaccess](https://gist.github.com/sinakuhestani/3048a98deccaab669fd9f3442ad5acef/)||Default `.htaccess` file|
-
-## Articles
-
-|Row  |Serie|Chapter|Episode|Date|Action|
-|:----|:-----|:------|:-----|:-----:|:-----|
-|1    |Design Patterns in PHP|Creational Patterns|Singleton|2025/03/12|[read](https://github.com/sinakuhestani/sinakuhestani/blob/main/Design%20Patterns/Singleton.md)|
+Visit my website for more about me: [sinakuhestani.github.io](https://sinakuhestani.github.io}
