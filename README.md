@@ -33,4 +33,4 @@ Here are some of the tools and technologies I work with:
 * YouTube: [@sinakuhestani](https://youtube.com/sinakuhestani)
 * Email: [sinakuhestani@gmail.com](mailto:sinakuhestani@gmail.com)
 
-Visit my website for more about me: [sinakuhestani.github.io](https://sinakuhestani.github.io}
+Visit my website for more about me: [sinakuhestani.github.io](https://sinakuhestani.github.io)
