@@ -24,7 +24,7 @@ Here are some of the tools and technologies I work with:
 * 🐙 Git . Gitlab . GitHub . TravisCI . Grunt . Gulp
 * 📃 And more ...
 
-[📥 Get My Resume](https://github.com/sinakuhestani/sinakuhestani/blob/main/RESUME.md)
+[📥 Get My Resume](https://sinakuhestani.github.io/resume.html)
 
 ## Let's Connect
 
