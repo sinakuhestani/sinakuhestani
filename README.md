@@ -4,7 +4,7 @@
 [ 🖥️ Senior PHP Developer ] [ ♟️ Chess Player ] [ 👨‍🍼 Happy Father ]
 
 
-## About  
+## About 
  
 I'm a passionate web developer with 5+ years of experience. My mission is to craft clean, efficient, and delightful solutions to real-world problems. I spend most of my days immersed in code, turning ideas into reality.
 
